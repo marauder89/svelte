@@ -16,10 +16,10 @@
         <a class="nav-link" id="nav-myparty" href="/myparty" aria-haspopup="true" aria-expanded="false" use:link> 내파티 </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" id="nav-find" href="" aria-haspopup="true" aria-expanded="false"> 파티찾기 </a>
+        <a class="nav-link" id="nav-find" href="#" aria-haspopup="true" aria-expanded="false"> 파티찾기 </a>
       </li>
       <li class="nav-item me-sm-4">
-        <a class="nav-link" id="nav-manual" href="" aria-haspopup="true" aria-expanded="false"> 사용법 </a>
+        <a class="nav-link" id="nav-manual" href="#" aria-haspopup="true" aria-expanded="false"> 사용법 </a>
       </li>
     </ul>
 

@@ -1,0 +1,7 @@
+{
+    "list": [        
+        {"name": "넷플릭스", "platform": "netflix", "status": "leader", "isMatching": true, "payment": "premium"},
+        {"name": "웨이브", "platform": "wavve", "status": "member", "isMatching": true, "payment": "premium"},
+        {"name": "티빙", "platform": "tiving", "status": "leader", "isMatching": false, "payment": "standard"}
+    ]
+}
