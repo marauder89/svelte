@@ -25681,6 +25681,7 @@ a.card:hover {
 }
 
 .myparty-placeholder {
+    /* 필요에 따라서 flex-basis 값을 마지막줄 갯수에 따라서 변경해야 될듯 1개=41.17, 2~3개=20*/
     flex-basis: 20rem;
     flex-grow: 1;
     flex-shrink: 1;

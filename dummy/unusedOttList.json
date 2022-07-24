@@ -1,0 +1,7 @@
+{
+    "list": [        
+        {"name": "왓챠", "platform": "watcha", "isImmediately": true, "price": 3500},
+        {"name": "디즈니+", "platform": "disney", "isImmediately": false, "price": 2700},
+        {"name": "라프텔", "platform": "laftel", "isImmediately": true, "price": 2800}
+    ]
+}
